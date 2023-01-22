@@ -1,0 +1,36 @@
+Honda CRF 450 Turbo Motard by RkrdM 
+Converted from GTA IV 
+Converted for GTA IV by chi47, Mr.Poher 
+
+(Thanks to IMTAJ, for helping me set up the add-on)
+
+Blog: http://gtamxmodssa.blogspot.pt/
+Facebook: https://www.facebook.com/GTAModsSA
+Facebook2:https://www.facebook.com/ModsGrandTheftAutoV
+Youtube: https://www.youtube.com/user/GTAModsSA
+
+Tutoriais: https://www.youtube.com/playlist?list=PLahog7jkmn2YJZteH0R6F8_YQnH-A_Qj6
+
+=================================================================================================
+
+-------HOW TO INSTALL------- 
+
+1 - Copy update folder to 
+X:\Grand Theft Auto V\ 
+
+----------------------------
+
+2 - Use OpenIV extract 
+X:\Grand Theft Auto V\update\update.rpf\common\data\dlclist.xml
+then use notepad open it,add new line. 
+
+   <Item>dlcpacks:\450crf\</Item>
+
+Save it and use OpenIV replace it.
+
+----------------------------
+
+3 - You can use Simple Trainer Spawn it by name. 
+
+    450crf
+
